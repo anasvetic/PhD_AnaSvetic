@@ -1,0 +1,1 @@
+Developed to analyse AFM height-distribution data exported from Gwyddion and to identify the height populations present in the sample. Its main purpose: quantify the separation between the two dominant height peaks, providing an estimate of the peak-to-peak height difference (Δz) between membrane phases/topographic levels.
