@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use these scripts in your research, please cite this repository."
+title: "PhD_AnaSvetic: Custom Python Scripts"
+authors:
+  - family-names: "Svetic"
+    given-names: "Ana"
+type: software
+license: MIT
+abstract: >-
+  Custom Python scripts for data processing, quantitative analysis
+  and visualisation accompanying Appendix B of Ana Svetic's PhD
+  thesis, "From Synthetic to Cell-Derived Plasma Membranes:
+  Developing a Model for Correlative Nanoscale Imaging."
